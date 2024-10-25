@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/buymeachai/static/css/main.0e6bb48b.css",
+    "main.js": "/buymeachai/static/js/main.4b3d8fd3.js",
+    "static/js/453.00c62118.chunk.js": "/buymeachai/static/js/453.00c62118.chunk.js",
+    "index.html": "/buymeachai/index.html",
+    "main.0e6bb48b.css.map": "/buymeachai/static/css/main.0e6bb48b.css.map",
+    "main.4b3d8fd3.js.map": "/buymeachai/static/js/main.4b3d8fd3.js.map",
+    "453.00c62118.chunk.js.map": "/buymeachai/static/js/453.00c62118.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e6bb48b.css",
+    "static/js/main.4b3d8fd3.js"
+  ]
+}
